@@ -1,0 +1,15 @@
+body{background-color: #E5E5E5;}
+main{background-color: #ffffff;}
+h1{background-color: #c4c4c4; color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; font-size: 35px;letter-spacing: 0.2cm ;
+    }
+h2{background-color: #c4c4c4; color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; font-size: 20px;font-style: normal;letter-spacing: 0.1cm;
+    text-align-last: left;
+    }
+h3{background-color:#005667; font-family:'Times New Roman', Times, serif  ;font-size: 20px;font-weight: bold;color: #ffffff;}
+ul,dd{font-size: 15px;}
+
+
